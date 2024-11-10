@@ -1,0 +1,7 @@
+﻿  camera.c
+  player.c
+  world.c
+C:\Users\Ryzen7\Desktop\proyectoc\src\world.c(13,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Ryzen7\Desktop\proyectoc\src\world.c(14,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  proyectoc.vcxproj -> C:\Users\Ryzen7\Desktop\proyectoc\projects\VS2022\build\proyectoc\bin\x64\Debug\proyectoc.exe
