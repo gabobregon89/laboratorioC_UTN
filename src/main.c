@@ -40,6 +40,15 @@ int main(void)
         //----------------------------------------------------------------------------------
         BeginDrawing();
 
+        /*for (size_t i = 0; i < ; i++)
+        {
+
+        }
+        if (player.position.x == stones[])
+        {
+
+        }*/
+
         ClearBackground(DARKBLUE);
       
         BeginMode2D(camera);

@@ -1,7 +1,6 @@
-﻿  camera.c
-  player.c
-  world.c
-C:\Users\Ryzen7\Desktop\proyectoc\src\world.c(13,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\Ryzen7\Desktop\proyectoc\src\world.c(14,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-  Generando código...
-  proyectoc.vcxproj -> C:\Users\Ryzen7\Desktop\proyectoc\projects\VS2022\build\proyectoc\bin\x64\Debug\proyectoc.exe
+﻿  world.c
+C:\Users\Usuario\Desktop\proyectos\laboratorioC_UTN\src\world.c(14,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\proyectos\laboratorioC_UTN\src\world.c(15,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\proyectos\laboratorioC_UTN\src\world.c(19,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\proyectos\laboratorioC_UTN\src\world.c(20,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  proyectoc.vcxproj -> C:\Users\Usuario\Desktop\proyectos\laboratorioC_UTN\projects\VS2022\build\proyectoc\bin\x64\Debug\proyectoc.exe
